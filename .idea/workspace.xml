@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32e90a1b-8d71-4919-888e-6c62b4e7bf4a" name="Changes" comment="" />
+    <list default="true" id="32e90a1b-8d71-4919-888e-6c62b4e7bf4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/auth-service/src/routes/users/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-service/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/auth-service/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth-service/src/routes/users.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EO22RNZADlIsLw6rUFHLmqLopD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,11 +35,13 @@
     "com.google.cloudcode.ide_session_index": "20220907_0000",
     "last_opened_file_path": "D:/0_NodeJS_Projects/mini-crm-4-translation-api",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\0_NodeJS_Projects\mini-crm-4-translation-api\auth-service\src\routes\users" />
       <recent name="D:\0_NodeJS_Projects\mini-crm-4-translation-api\auth-service\src" />
       <recent name="D:\0_NodeJS_Projects\mini-crm-4-translation-api\z-infra\k8s" />
     </key>
@@ -99,11 +110,22 @@
       <option name="presentableId" value="Default" />
       <updated>1662452103737</updated>
       <workItem from="1662452104828" duration="3336000" />
-      <workItem from="1662467727226" duration="20929000" />
+      <workItem from="1662467727226" duration="25925000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
